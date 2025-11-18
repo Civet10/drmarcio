@@ -3,22 +3,22 @@ import { ChevronLeft, ChevronRight } from 'lucide-react';
 
 const heroImages = [
   {
-    url: '/perfil3.jpeg',
+    url: 'perfil3.jpeg',
     title: 'Dr. Márcio Miranda',
     description: 'Cirurgião Veterinário Especialista'
   },
   {
-    url: '/joelho1.jpeg',
+    url: 'joelho1.jpeg',
     title: 'Cirurgia de Joelho',
     description: 'Técnicas Avançadas em Ortopedia'
   },
   {
-    url: '/coluna1.jpeg',
+    url: 'coluna1.jpeg',
     title: 'Cirurgia de Coluna',
     description: 'Procedimentos Neuroespinhais'
   },
   {
-    url: '/ciru1.jpeg',
+    url: 'ciru1.jpeg',
     title: 'Cirurgia Coxofemoral',
     description: 'Especialização em Displasia'
   }

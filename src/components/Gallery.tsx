@@ -3,17 +3,17 @@ import { X } from 'lucide-react';
 
 const cases = [
   {
-    image: '/joelho2.jpeg',
+    image: 'joelho2.jpeg',
     title: 'Cirurgia de Joelho - Ruptura de LCC',
     description: 'Correção cirúrgica de ligamento cruzado cranial com técnica TPLO'
   },
   {
-    image: '/joelho4.jpeg',
+    image: 'joelho4.jpeg',
     title: 'Fratura de Fêmur',
     description: 'Osteossíntese com placa bloqueada em fêmur distal'
   },
   {
-    image: '/coluna1.jpeg',
+    image: 'coluna1.jpeg',
     title: 'Hérnia de Disco Toracolombar',
     description: 'Hemilaminectomia para descompressão medular'
   },
@@ -23,52 +23,63 @@ const cases = [
     description: 'Prótese total de quadril em cão adulto'
   },
   {
-    image: '/patelar.jpeg',
+    image: 'patelar.jpeg',
     title: 'Luxação Patelar',
     description: 'Correção de luxação patelar medial grau III'
   },
   {
-    image: '/radio.jpeg',
+    image: 'radio.jpeg',
     title: 'Fratura de Rádio e Ulna',
     description: 'Fixação interna com placas e parafusos'
   },
   {
-    image: '/ciru1.jpeg',
+    image: 'ciru1.jpeg',
     title: 'Osteotomia Corretiva',
     description: 'Correção angular de deformidade em tíbia'
   },
   {
-    image: 'https://images.pexels.com/photos/6235243/pexels-photo-6235243.jpeg',
+    image: 'asa.jpeg',
     title: 'Fratura Pélvica',
     description: 'Reconstrução pélvica com múltiplos implantes'
   },
   {
-    image: '/artrodese.jpeg',
+    image: 'ilio.jpeg',
+    title: 'Disjunção sacroilíaca',
+    description: 'Procedimento cirúrgico de redução e estabilização da disjunção sacroilíaca, mediante realinhamento da articulação e fixação óssea para restauração da continuidade pélvica'
+  },
+  {
+    image: 'artrodese.jpeg',
     title: 'Artrodese',
     description: 'Procedimento indicado para casos de dor crônica, luxações e artropatias severas, oferecendo recuperação estrutural e melhora significativa na locomoção'
   },
   {
-    image: '/tomo1.jpeg',
+    image: 'tomo1.jpeg',
     title: 'Artrodese Vertebral',
     description: 'Estabilização cervical por instabilidade C1-C2'
   },
   {
-    image: '/perfil2.jpeg',
+    image: 'coxal.jpeg',
     title: 'Ressecção de Cabeça Femoral',
     description: 'Técnica de excisão artroplastia para dor coxofemoral'
   },
   {
-    image: 'https://images.pexels.com/photos/6235244/pexels-photo-6235244.jpeg',
+    image: 'umero.jpeg',
     title: 'Fratura de Úmero',
     description: 'Fixação com haste intramedular bloqueada'
   },
   {
-    image: '/perfil1.jpeg',
+  image: 'logan.jpeg',
+  title: 'Fratura em Metatarsos',
+  description: 'Correção cirúrgica com estabilização óssea e síntese interna'
+}
+
+  {
+    image: 'perfil2.jpeg',
     title: 'Gastropexia Preventiva',
     description: 'Fixação gástrica profilática em raça de grande porte'
   },
   {
-    image: '/coluna.jpeg',
+    image: 'coluna.jpeg',
     title: 'Estenose Lombossacral',
     description: 'Descompressão cirúrgica de cauda equina'
   },
@@ -78,7 +89,7 @@ const cases = [
     description: 'Remoção de cálculo vesical por cistotomia'
   },
   {
-    image: '/joelho2.jpeg',
+    image: 'cranio.jpeg',
     title: 'Fratura de Mandíbula',
     description: 'Fixação mandibular com cerclagem e placa'
   }
