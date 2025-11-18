@@ -71,7 +71,7 @@ const cases = [
   image: 'logan.jpeg',
   title: 'Fratura em Metatarsos',
   description: 'Correção cirúrgica com estabilização óssea e síntese interna'
-}
+  },
 
   {
     image: 'perfil2.jpeg',
